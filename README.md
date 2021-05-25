@@ -6,7 +6,7 @@
 
 
 <h4 align="center"> 
-	🚧  Ainda existem algumas melhorias e alguns bugs a corrigir...  🚧
+	🚧  Ainda existem alguns bugs no projeto...  🚧
 </h4>
 
 <img src="https://img.shields.io/static/v1?label=Staging&message=Taskfly&color=7159c1&style=for-the-badge&logo=ghost"/>
